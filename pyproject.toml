@@ -28,7 +28,7 @@ description = "Functionality often used by BITS Blue Team (SentinelOne)."
 name = "bibt-sentinelone"
 readme = {file = "README.md", content-type = "text/markdown"}
 requires-python = ">=3.7"
-version = "0.0.3"
+version = "0.0.4"
 
 [project.urls]
 "Bug Tracker" = "https://github.com/broadinstitute/bibt-sentinelone/issues"
