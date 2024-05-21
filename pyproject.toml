@@ -22,7 +22,7 @@ classifiers = [
 ]
 dependencies = [
   "glom==23.5.0",
-  "requests==2.31.0",
+  "requests==2.32.0",
 ]
 description = "Functionality often used by BITS Blue Team (SentinelOne)."
 name = "bibt-sentinelone"
